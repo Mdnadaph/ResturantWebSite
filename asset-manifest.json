@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ResturantWebSite/static/css/main.eabc9742.css",
+    "main.js": "/ResturantWebSite/static/js/main.110b014a.js",
+    "static/media/masala.jpg": "/ResturantWebSite/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/food.jpg": "/ResturantWebSite/static/media/food.d7fa47de3c48d25ec52c.jpg",
+    "static/media/Burgur.jpg": "/ResturantWebSite/static/media/Burgur.192ba69289cdd57e8475.jpg",
+    "static/media/amlet.jpg": "/ResturantWebSite/static/media/amlet.19a1de4c9d77983ff759.jpg",
+    "static/media/kera.jpg": "/ResturantWebSite/static/media/kera.42c7910bd2f2bcf364c9.jpg",
+    "static/media/chhola.jpg": "/ResturantWebSite/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/chart.avif": "/ResturantWebSite/static/media/chart.e25353a239e0ab83693c.avif",
+    "static/media/paneer.jpg": "/ResturantWebSite/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/gujrati.jpeg": "/ResturantWebSite/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/ResturantWebSite/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/ResturantWebSite/index.html",
+    "main.eabc9742.css.map": "/ResturantWebSite/static/css/main.eabc9742.css.map",
+    "main.110b014a.js.map": "/ResturantWebSite/static/js/main.110b014a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eabc9742.css",
+    "static/js/main.110b014a.js"
+  ]
+}
