@@ -11,7 +11,7 @@ const Home = () => {
         <div className="headerCntainer">
           <h1>𝔅𝔥𝔬𝔩𝔞 𝔉𝔬𝔬𝔡𝔰</h1>
           <h3 
-        >We provides healthy and hygienic foods</h3>
+          >We provides healthy and hygienic foods</h3>
 
           <Link to="/menu">
             <button>ORDER NOW</button>
@@ -22,5 +22,5 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Home;
 
