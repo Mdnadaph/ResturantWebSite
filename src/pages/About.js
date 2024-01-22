@@ -50,6 +50,10 @@ const About = () => {
           Best ipsum dolor sit amet consectetur adipisicing elit. Id itaque at a inventore placeat, voluptatibus numquam aliquid, eum reiciendis cum velit recusandae maiores, accusamus facere dignissimos magni est officia. Alias delectus, molestias possimus vel explicabo dolores eos! Nisi officiis inventore at quibusdam aut deleniti autem recusandae laudantium nobis veritatis, dolore accusantium sed perspiciatis eum alias accusamus? Deleniti blanditiis illum eius fuga itaque quod labore sint facere quibusdam aut. Veritatis deserunt aspernatur eligendi molestiae delectus eius voluptate, esse, tenetur magnam expedita dolore officia quae nesciunt impedit ipsa soluta quis laudantium reiciendis distinctio commodi. Quis quo provident, dicta voluptatum illum deleniti nihil?
         </p>
         <br />
+        <p>
+          Best ipsum dolor sit amet consectetur adipisicing elit. Id itaque at a inventore placeat, voluptatibus numquam aliquid, eum reiciendis cum velit recusandae maiores, accusamus facere dignissimos magni est officia. Alias delectus, molestias possimus vel explicabo dolores eos! Nisi officiis inventore at quibusdam aut deleniti autem recusandae laudantium nobis veritatis, dolore accusantium sed perspiciatis eum alias accusamus? Deleniti blanditiis illum eius fuga itaque quod labore sint facere quibusdam aut. Veritatis deserunt aspernatur eligendi molestiae delectus eius voluptate, esse, tenetur magnam expedita dolore officia quae nesciunt impedit ipsa soluta quis laudantium reiciendis distinctio commodi. Quis quo provident, dicta voluptatum illum deleniti nihil?
+        </p>
+        <br />
     
       </Box>
     </Layout>

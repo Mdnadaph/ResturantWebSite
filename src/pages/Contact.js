@@ -5,10 +5,10 @@ import {  Button, Card, CardContent, Grid,  TextField, Typography } from '@mui/m
 const Contact = () => {
   return (
     <Layout>
-      <Typography variant='h4' align='center'>
+      <Typography variant='h4' align='center' mt={6}>
         Contact Us Our Resturant
       </Typography>
-      <Card style={{maxWidth:'450', margin:"0 auto"}}>
+      <Card style={{maxWidth:'450', margin:"0 auto", marginBottom:50}}>
         <CardContent>
         <form>
           <Grid container spacing={1}>

@@ -32,10 +32,10 @@ const drawer = (
                 <Link to={'/'}>Home</Link>
               </li>
               <li>
-                <Link to={'/menu'}>Menu</Link>
+                <Link to={'/about'}>About</Link>
               </li>
               <li>
-                <Link to={'/about'}>About</Link>
+                <Link to={'/menu'}>Menu</Link>
               </li>
               <li>
                 <Link to={'/contact'}>Contact</Link>
@@ -74,10 +74,10 @@ const drawer = (
                 <Link to={'/'}>Home</Link>
               </li>
               <li>
-                <Link to={'/menu'}>Menu</Link>
+              <Link to={'/about'}>About</Link>
               </li>
               <li>
-                <Link to={'/about'}>About</Link>
+              <Link to={'/menu'}>Menu</Link>
               </li>
               <li>
                 <Link to={'/contact'}>Contact</Link>

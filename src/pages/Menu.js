@@ -6,6 +6,8 @@ import { Box, Card, CardActionArea, CardContent, CardMedia, Typography,CardActio
 const Menu = () => {
   return (
     <Layout>
+       <Typography variant='h4' align='center' mt={5} fontWeight={500}>Our Delicious Foods</Typography>
+
        <Box sx={{display:'flex',flexWrap:'wrap', justifyContent:'center'}}>
         {
           MenuList.map(menu =>(

@@ -1,15 +1,13 @@
-import Dosa from "../images/dosa.jpg";
+import CurrencyRupeeIcon from '@mui/icons-material/CurrencyRupee';
+import Dosa from "../images/vegBurgur.avif";
 import Chola from "../images/chhola.jpg";
 import kera from "../images/kera.jpg"
-import MasalaDosa from "../images/masala.jpg";
 import Paneer from "../images/paneer.jpg";
 import Gujrati from "../images/gujrati.jpeg";
 import Chart from "../images/chart.avif";
-import CurrencyRupeeIcon from '@mui/icons-material/CurrencyRupee';
 import Burgur from "../images/Burgur.jpg";
 import amlet from "../images/amlet.jpg";
 import { Typography } from "@mui/material";
-
 
 
 export const MenuList = [
@@ -19,7 +17,7 @@ export const MenuList = [
         description:'It is a very much delicious fast food in nepal must of the people love to it in street area due to its price and test.',
         image:Burgur,
         price:<Typography  sx={{fontSize:'25px'}}>
-            <CurrencyRupeeIcon/>150
+        <CurrencyRupeeIcon/>150
         </Typography>
         
     },
@@ -39,15 +37,6 @@ export const MenuList = [
         image:Chart,
         price:<Typography  sx={{fontSize:'25px'}}>
         <CurrencyRupeeIcon/>200
-        </Typography>
-    },
-    {
-       
-        name:'MasalaDosa',
-        description:'It is a very much delicious fast food in nepal must of the people love to it in street area due to its price and test.',
-        image:MasalaDosa,
-        price:<Typography  sx={{fontSize:'25px'}}>
-        <CurrencyRupeeIcon/>225
         </Typography>
     },
     {
